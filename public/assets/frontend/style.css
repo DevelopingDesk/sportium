@@ -1,0 +1,533 @@
+﻿.ms-rteStyle-RedMainTitle 
+{ 
+	-ms-name:"Red Main Title"; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F0191E;
+	text-decoration: none;
+	padding-bottom: 10px;
+}
+
+.ms-rteStyle-RedHeading 
+{ 
+	-ms-name:"Red Heading"; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #F0191E;
+	text-decoration: none;
+} 
+
+.ms-rteStyle-RedSubHeading 
+{ 
+	-ms-name:"Red Sub Heading"; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #F0191E;
+} 
+
+.cntnt{   border-top: 5px solid #374375; padding-top:5px;}
+.ContentZone{   border-top: 5px solid #374375; padding-top:5px; }
+
+/* Always place .IndigoTop and .RedTop after .ContentZone and .cntnt */
+.IndigoTop{	border-top: 5px solid #374375; padding-top:5px;}
+.RedTop{   border-top: 5px solid #F0191E; padding-top:5px;}
+
+.lftContainer{width: 704px;}
+
+.TABMID
+{
+	background-image: url(images/tab_mid.jpg);
+}
+
+.TopBG
+{
+	background-image: url(images/top_bg.gif);
+}
+
+.PageHeading
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F0191E;
+	text-decoration: none;
+	padding-bottom:10px;
+}
+
+.searchbox
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;
+	background-color: #FFFFFF;
+	height: 15px;
+	width: 127px;
+	border: 1px solid #94978D;
+}
+
+.dotline
+{
+	background-image: url(images/dotedline.gif);
+}
+
+.PageSubHeading
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #F0191E;
+}
+
+.LINKSBOLD
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #9F0000;
+	text-decoration: none;
+}
+
+A.LINKSBOLD:HOVER
+{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: underline;
+}
+
+.NormalHeading
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.InternalPageFonts
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #000000;
+	font-size: 12px;	
+}
+
+.LINKS
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #9F0000;
+	text-decoration: none;
+}
+
+a.LINKS:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+
+}
+
+.copyRight
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #ADADAD;
+	background-image: url(images/footer.gif);
+}
+
+.contentLink2
+{
+}
+
+.middleContenttxt
+{
+}
+
+.smalltext
+{
+}
+
+.bullet
+{
+background-image:none;
+}
+
+.internalLink
+{
+}
+
+.GridDarkRow1
+{
+}
+
+.GridLightRow1
+{
+}
+
+.number
+{
+}
+
+.GridDarkRow
+{
+}
+
+.GridLightRow
+{
+}
+
+.mainpageFonts
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+
+.EBSubHeading
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #185218;
+}
+
+.urdu
+{
+font-family: "Times New Roman", Times, serif;
+font-size: 22px;
+direction:rtl;
+}
+
+.urdultr
+{
+unicode-bidi:bidi-override;
+direction:ltr;
+}
+
+.urduweb
+{
+font-family: "Nafees Web Naskh", Times, serif;
+font-size: 22px;
+direction:rtl;
+}
+
+.urduwebLinks
+{
+font-family: "Nafees Web Naskh", Times, serif;
+font-size: 14px;
+direction:rtl;
+font-weight: bold;
+}
+
+.LINKSBOLDCUrdu
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bold;
+color: #9F0000;
+text-decoration: none;
+}
+
+a.LINKSBOLDCUrdu:hover
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bold;
+color: #000000;
+text-decoration: none;
+}
+/* --------------------- topnav styles ----------------------- */
+.s4-tn
+{
+	padding: 0;
+	padding-right: auto;
+	padding-left: auto;
+	background-color: #F0191E;
+	background-image: url(/_layouts/1033/IMAGES/AKU.SPS/hospitalNavBarBG.gif);
+	background-repeat: repeat-x;
+	color: #ffffff;
+	font-weight: bold;
+	margin:118px 0 0 0;
+	height: 32px;
+	text-align: center;
+	display: block;
+}
+
+.s4-tn li.static > a:link, .s4-tn li.static > a:visited  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color:#ffffff;
+	text-decoration: none;
+	margin-right: 0px;
+	padding: 6px 9px 0px 9px;
+	height: 26px;
+	display: block;
+}
+
+.s4-tn li.static > a:hover {
+	color:#F0191E;
+	background-color:#ffffff;
+}
+
+.s4-tn li.static > a:active {
+	color:#00A0AF;
+}
+
+/* item style */
+.s4-tn li.static > .menu-item {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color:#ffffff;
+	text-decoration: none;
+	margin-right: 0px;
+	padding: 6px 9px 0px 9px;
+	height: 26px;
+	display: block;
+}
+
+.s4-tn ul.static {
+	margin: 0;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0;
+	list-style: none;
+	height: 24px;
+	z-index: 200;
+	text-align: center;
+	list-style: none;
+	display: block;
+	padding-left: 70px;
+}
+
+.s4-tn li.static {
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 3px 0px 4px 0px;
+	background-image:url(/_layouts/1033/IMAGES/AKU.SPS/hospitalNavRightBorder.gif);
+	background-position: right 0;
+	background-repeat: no-repeat;
+	height: 25px;
+	float: left;
+	font-size:15px;	
+	display: block;
+}
+
+.s4-tn li.static  > a {
+	float: left;
+	display: block;
+	text-decoration: none;
+}
+
+/* removes image from last menu item */
+.s4-tn li.static+li+li+li+li+li {
+	background-image:none;
+}
+
+.s4-tn ul.static > li.selected {
+	color:#ffffff;
+	background-color:#374375;
+	background-image:none;
+	border-top: 3px solid #ffffff;
+	height: 25px;
+	padding-top:0;
+	}
+
+.s4-tn ul.static > li:havor {
+	float: left;
+	display: block;
+	text-decoration: none;
+	color:#008D4F;
+	background-color:#ffffff;
+	background-image:none;
+	padding: 3px 4px 20px 4px;
+	margin-bottom: 0px;
+	height: 25px;
+}
+	
+.s4-tn li.static > a:havor {
+	color:#F0191E;
+}
+
+.s4-tn li.active a, .s4-tn li.active a:link, .s4-tn li.active a:visited{
+	color: #ffffff;
+	}
+
+.s4-tn ul.static  > li:hover ul {
+	display: block;
+	background-image: url(/_layouts/1033/IMAGES/AKU.SPS/hospitalMenuBG_Karachi.gif);
+	background-repeat:repeat-x;
+	background-color:#00306A;
+	padding: 0;
+	clear: all;
+	height: auto;
+}
+
+/* dropdown menus */
+.s4-tn ul.dynamic {
+	visibility: visible;
+	display: none;
+	position: absolute;
+	top: 31px;
+	left: 0px;
+	padding:0;
+	margin:0;
+	width: 178px;
+	list-style: none;
+}
+
+.s4-tn ul.dynamic  > li {
+	height: auto;
+	width: 178px;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 16px;
+	color: #ffffff;
+	text-decoration: none;
+	text-align: left;
+	border-top: 1px solid #ffffff;
+	background-image:none;
+	display: block;
+	padding: 0px 0px 3px 0px;
+}
+
+.s4-tn ul.dynamic > li:hover a {
+	background-color: #FFFFFF !important;
+	color: #F0191E !important;
+	display: block;
+}
+
+.s4-tn ul.dynamic  > li:hover {
+	width: 178px;
+	background-color:#ffffff !important;
+	line-height: 16px; 
+	text-decoration:none;
+	color: #F0191E !important;
+	display:block;
+	padding: 0px 0px 3px 0px;
+	height: auto;
+}
+
+.s4-tn ul.dynamic  > li:hover a:hover {
+	color: #F0191E !important;
+	display: block;
+	background-color: #ffffff !important;
+
+
+}
+
+.s4-tn ul.dynamic  > li:hover a:visited {
+	color: #F0191E !important;
+	background-color: #ffffff !important;
+
+}
+
+/* flyout item hover */
+.s4-tn li.dynamic > a:hover {
+	text-decoration: none;
+	background-color: #ffffff !important;
+	line-height: 16px;
+	width: 158px;
+	color:#F0191E;
+	height: auto;
+	display: block;
+}
+
+.s4-tn li.dynamic > a:link, .s4-tn li.dynamic > a:visited {
+	position: absoulte;
+	text-decoration: none;
+	color: #ffffff !important;
+	line-height: 16px;
+	width: 158px;
+	height: auto;
+	clear:both;
+	display: block;
+}
+
+.menu-horizontal span.menu-item-text {
+	white-space: normal;
+}
+
+/* hide arrows for top level items with flyouts */
+.menu-horizontal a.dynamic-children span.additional-background,
+.menu-horizontal span.dynamic-children span.additional-background{
+    padding-right:0px;
+    background-image:none;
+}	
+
+#header{
+	float:left;
+	width: 934px;
+	height:auto;
+	background-color: #ffffff;
+	display: block;
+	}
+	
+.logoImage{float: left; padding-bottom: 12px;}
+
+/*ROW BG*/
+.IndigoGreenBG{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_2col-News_karachi_mid.jpg") repeat-y; margin:0px; padding:0px;}
+.IndigoGreenRow{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_2col-News_karachi_top.jpg") no-repeat;margin:0px; padding:0px;}
+.IndigoGreenBottom{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_2col-News_karachi_bottom.jpg") no-repeat; min-height: 14px;margin:0px; padding:0px; width:707px;}
+
+.Indigox4BG{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx4_mid.jpg") repeat-y; margin:0px; padding:0px;width:944px;}
+.Indigox4Row{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx4_top.jpg") no-repeat;margin:0px; padding:0px;width:944px;}
+.Indigox4Bottom{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx4_bottom.jpg") no-repeat; min-height: 14px;margin:0px; padding:0px; width:944px;}
+
+.Indigox2BG{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_1c2c_mid.jpg") repeat-y; margin:0px; padding:0px;}
+.Indigox2Row{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_1c2c_top.jpg") no-repeat;margin:0px; padding:0px;}
+.Indigox2Bottom{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_1c2c_bottom.jpg") no-repeat; min-height: 14px;margin:0px; padding:0px; width:707px;}
+
+.Indigox2RedBG{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx2_red_mid.jpg") repeat-y; margin:0px; padding:0px;}
+.Indigox2RedRow{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx2_red_top.jpg") no-repeat;margin:0px; padding:0px;}
+.Indigox2RedBottom{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_blue_1cx2_red_bottom.jpg") no-repeat; min-height: 14px;margin:0px; padding:0px; width:707px;}
+
+.GreenIndigox3BG{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_news_1cBluex3_mid.jpg") repeat-y; margin:0px; padding:0px;width:944px;}
+.GreenIndigox3Row{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_news_1cBluex3_top.jpg") no-repeat;margin:0px; padding:0px;width:944px;}
+.GreenIndigox3Bottom{background:url("/_LAYOUTS/1033/IMAGES/AKU.SPS/BG_news_1cBluex3_bottom.jpg") no-repeat; min-height: 14px;margin:0px; padding:0px; width:944px;}
+
+.AZIndexData {font-family: Arial, Helvetica, sans-serif; font-size: 12px;text-decoration: none;color: #000000;}
+    a.AZIndexData:link {color: #000000;text-decoration: none;}
+    a.AZIndexData:active {color: #000000;text-decoration: none;}
+    a.AZIndexData:visited{color: #000000;text-decoration: none;}
+    a.AZIndexData:hover {color: #008D50;text-decoration:underline;}
+
+.AZIndexAlph {font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #184154;text-decoration: none;background-color:#D6D6CE;display:block;width:16px;
+height:16px;}
+    a.AZIndexAlph:link {color: #184154;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlph:active {color: #184154;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlph:visited{color: #184154;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlph:hover{color: #FFFFFF;background-color: inherit;}
+    td.AZIndexAlph:hover{color: #FFFFFF;text-decoration: none;background-color: #d81e05;}
+    
+
+.AZIndexAlphHL{font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #FFFFFF;text-decoration: none;background-color:#d81e05;display:block;width:16px;
+height:16px;}
+    a.AZIndexAlphHL:link{color: #FFFFFF;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlphHL:active{color: #FFFFFF;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlphHL:visited{color: #FFFFFF;text-decoration: none;background-color: inherit;}
+    td.AZIndexAlphHL{color: #FFFFFF;text-decoration: none;background-color:#d81e05;}
+
+.AZIndexAlphDis{font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #989792;text-decoration: none;background-color:#D6D6CE;width:16px;
+height:16px;display:block;}
+    a.AZIndexAlphDis:link{color: #989792;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlphDis:active{color: #989792;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlphDis:visited{color: #989792;text-decoration: none;background-color: inherit;}
+    a.AZIndexAlphDis:hover{color: #989792;text-decoration: none;background-color: inherit;}
+       
+.AZIndex{font-size: 16px;font-family: Arial, Helvetica, sans-serif;color: #d81e05;}
+
+
+/*New Change for Top Nav by SL*/
+.menu-horizontal{display:table;zoom:1; margin-left:0px !important;}

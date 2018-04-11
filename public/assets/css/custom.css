@@ -1,0 +1,180 @@
+.margin-bottom{
+    margin-bottom: 10px;
+}
+.gmap-control-container {
+    margin: 5px;
+}
+.m-20 {
+    margin: 20px;
+}
+.m-b-5 {
+  margin-bottom: 5px;
+}
+.m-r-2 {
+  margin-right: 2px;
+}
+.w-100 {
+  width: 100%;
+}
+.m-t-15 {
+  margin-top: 15px;
+}
+.gmap-control {
+    cursor: pointer;
+    background-color: -moz-linear-gradient(center top , #FEFEFE, #F3F3F3);
+    background-color: #FEFEFE;
+    border: 1px solid #A9BBDF;
+    border-radius: 2px;
+    padding: 4px 8px;
+    line-height: 160%;
+    font-size: 12px;
+    font-family: Arial,sans-serif;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+.gmap-control:hover {
+    border: 1px solid #678AC7;
+}
+.gmap-control-active {
+    background-color: -moz-linear-gradient(center top , #6D8ACC, #7B98D9);
+    background-color: #6D8ACC;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #678AC7;
+}
+.gmap-control-legend {
+    position: absolute;
+    text-align: left;
+    z-index: -1;
+    top: 28px;
+    right: 0;
+    width: 150px;
+    height: auto;
+    font-size: 10px;
+    background: #FEFEFE;
+    border: 1px solid #A9BBDF;
+    padding: 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+}
+.gmap-control-legend ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.gmap-control-legend li {
+    line-height: 160%;
+}
+#mapModal .modal-dialog {
+    width: 80%;
+}
+.map-control-btns .btn {
+    background-color: #60768d;
+}
+.map-control-btns .btn.active {
+    background-color: #1f3853;
+}
+.control .map-check{
+    padding: 10px;
+}
+.control .map-check label{
+    font-size: 16px; font-weight: 500;
+}
+.control .map-check input{
+    margin-right: 5px;
+}
+fieldset {
+    border: 1px solid #e5e5e5;
+}
+.switch-control .link{
+    color: #505458;
+    margin: 10px;
+    font-weight: 300;
+    font-size: 24px; 
+    line-height: 30px;
+}
+.switch-control .link.active{
+    border-bottom: 4px solid #0aa699; 
+}
+.switch-control .link:hover{
+    border-bottom: 4px solid #0aa699; 
+}
+.list-link{
+    text-decoration: underline;
+}
+.gmap-search-control {
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  height: 32px;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#gmap-search-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 300px;
+}
+
+#gmap-search-input:focus {
+  border-color: #4d90fe;
+}
+
+.pac-container {
+  font-family: Roboto;
+}
+
+#type-selector {
+  color: #fff;
+  background-color: #4d90fe;
+  padding: 5px 11px 0px 11px;
+}
+
+#type-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+.select2-container--default .select2-selection--multiple,.select2-container--default .select2-selection--single {
+  border: 1px solid #e5e9ec !important;
+  border-radius: 2px; 
+}
+.select2-container--default .select2-selection--single{
+  height: 16px;
+  line-height: 15px;
+  min-height: 37px;
+  outline: 0 none;
+  padding: 6px 11px !important;
+}
+.select2-search.select2-search--inline input{
+  width: -moz-fit-content !important;
+}
+
+
+/* reports page*/
+.report_printable {
+  margin-bottom: 20px;
+}
+.reports-table {
+  width: 100%
+}
+.reports-table td{
+  padding: 0 5px;
+}
+.reports-table th {
+  text-align: center;
+}
+.reports-input: {
+  border: 0;
+}
